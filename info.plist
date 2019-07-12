@@ -38,7 +38,7 @@
 	<key>createdby</key>
 	<string>Astrian Zheng</string>
 	<key>description</key>
-	<string></string>
+	<string>让你在 Alfred 上投跑团骰子，虽然并没有多少人会在跑团时开着电脑。</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -134,7 +134,7 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>https://github.com/Astrian/trpgrolldice</string>
 	<key>uidata</key>
 	<dict>
 		<key>217C0F1A-14A9-460D-BA10-1C686835699C</key>
@@ -159,7 +159,11 @@
 			<integer>290</integer>
 		</dict>
 	</dict>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>1.0.0</string>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/Astrian/trpgrolldice</string>
 </dict>
 </plist>
