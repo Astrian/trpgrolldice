@@ -1,0 +1,15 @@
+{
+  "name": "trpgrolldice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Astrian Zheng",
+  "license": "MIT",
+  "dependencies": {
+    "alfy": "^0.9.0",
+    "moment": "^2.24.0"
+  }
+}
